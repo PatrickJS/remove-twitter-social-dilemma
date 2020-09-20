@@ -30,6 +30,10 @@ a[aria-label="Search and explore"]
 nav[aria-label="Footer"]
 ```
 
+Also set your blocker to aggressive
+
+<img width="359" alt="Screen Shot 2020-09-20 at 6 46 43 AM" src="https://user-images.githubusercontent.com/1016365/93712903-80aa1c00-fb0d-11ea-842e-e9e7159cb879.png">
+
 ---
 
 https://www.thesocialdilemma.com/
