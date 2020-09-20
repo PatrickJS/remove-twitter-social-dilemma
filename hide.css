@@ -1,14 +1,24 @@
 div[aria-label="Timeline: Trending now"] {
-  display:none !important;
+  display: none !important;
 }
 
 aside[aria-label="Who to follow"] {
-  display:none !important;
+  display: none !important;
 }
 
 a[aria-label="Search and explore"] {
-  display:none !important;
+  display: none !important;
   pointer-events: none;
   text-decoration: none;
+}
+
+nav[aria-label="Footer"] {
+  display: none !important;
+}
+
+div[data-testid="placementTracking"] article {
+  display: none !important;
+  pointer-events: none;
+  text-decoration: none; 
 }
 

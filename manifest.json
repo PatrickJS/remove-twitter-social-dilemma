@@ -1,9 +1,19 @@
 {
     "manifest_version": 2,
-    "name": "Remove Twitter Trends",
+    "name": "Remove Twitter Social Dilemma",
     "version": "1.0",
-    "description": "Remove tailored twitter trends",
+    "description": "Remove Twitter Social Dilemma",
     "content_scripts": [
+        {
+            "js": [
+                "hide.js"
+            ],
+            "run_at": "document_start",
+            "all_frames": true,
+            "matches": [
+                "*://*.twitter.com/*"
+            ]
+        },
         {
             "css": [
                 "hide.css"
