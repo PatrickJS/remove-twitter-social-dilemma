@@ -1,6 +1,6 @@
 # Remove Twitter Social Dilemma
 
-Don't fall into the Social Dilemma. Remove explore/trends/suggested-follows/promoted on twitter.
+Don't fall into the Social Dilemma. Remove explore/trends/suggested-follows/promoted on Twitter. Also consider removing Ads on your google search results via [AdblockerGoogleSearch](https://github.com/PatrickJS/AdblockerGoogleSearch)
 
 ## Chrome Installation
 
