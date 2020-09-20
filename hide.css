@@ -1,3 +1,14 @@
 div[aria-label="Timeline: Trending now"]{
-    display:none !important;
+  display:none !important;
 }
+
+div[aria-label="Who to follow"]{
+  display:none !important;
+}
+
+div[aria-label="Search and explore"]{
+  display:none !important;
+  pointer-events: none;
+  text-decoration: none;
+}
+
