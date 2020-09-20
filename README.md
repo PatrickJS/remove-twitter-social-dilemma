@@ -11,7 +11,12 @@ Don't fall into the Social Dilemma. Remove explore/trends/suggested-follows/prom
 
 ## Brave Installation
 
-If you're using [Brave Browser](https://brave.com/) you do not need to install this but you do need to add a few css selectors. Follow the instructions in this link with these list of selectors
+If you're using [Brave Browser](https://brave.com/) you do not need to install this but you do need to add a few css selectors.
+
+[Click on this link for instructions](https://dev.to/donavon/disable-promoted-tweets-in-twitter-using-brave-3e37)
+
+Enter these selectors
+
 ```
 div[aria-label="Timeline: Trending now"]
 ```
@@ -24,8 +29,6 @@ a[aria-label="Search and explore"]
 ```
 nav[aria-label="Footer"]
 ```
-
-https://dev.to/donavon/disable-promoted-tweets-in-twitter-using-brave-3e37
 
 ---
 
