@@ -1,12 +1,12 @@
-div[aria-label="Timeline: Trending now"]{
+div[aria-label="Timeline: Trending now"] {
   display:none !important;
 }
 
-aside[aria-label="Who to follow"]{
+aside[aria-label="Who to follow"] {
   display:none !important;
 }
 
-a[aria-label="Search and explore"]{
+a[aria-label="Search and explore"] {
   display:none !important;
   pointer-events: none;
   text-decoration: none;
